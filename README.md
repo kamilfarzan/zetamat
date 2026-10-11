@@ -1,6 +1,6 @@
 # Arithmetic Game
 
-An even more simplified, serverless Zetamac clone (simple mental arithmetic speed drill) built with vanilla HTML, CSS, and JavaScript.
+An serverless Zetamac clone (simple mental arithmetic speed drill), with **statistics**, built with vanilla HTML, CSS, and JavaScript.
 
 ## How to Run
 
