@@ -5,7 +5,7 @@ An serverless Zetamac clone (simple mental arithmetic speed drill), with **stati
 ## How to Run
 
 ### Option 1: Browser (Static)
-Open `index.html` in your browser, or use the Github Page deploy.
+Open `index.html` in your browser, or use the [Github Pages deploy](https://kamilfarzan.github.io/zetamat/).
 
 ### Option 2: Local Server (Bun)
 ```bash
