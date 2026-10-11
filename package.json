@@ -1,6 +1,6 @@
 {
-  "name": "zetamac-clone",
-  "version": "1.0.0",
+  "name": "zetamat",
+  "version": "0.8.0",
   "type": "module",
   "scripts": {
     "dev": "bun run server.ts"
