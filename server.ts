@@ -25,6 +25,8 @@ Bun.serve({
       filePath = './index.html';
     } else if (pathname === '/game') {
       filePath = './game.html';
+    } else if (pathname === '/stats') {
+      filePath = './stats.html';
     }
 
     const file = Bun.file(filePath);

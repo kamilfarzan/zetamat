@@ -1,6 +1,8 @@
 <!doctype html>
 <html>
   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Arithmetic Game – Online Speed Drill</title>
     <link href="./app.css" rel="stylesheet" />
   </head>
@@ -16,9 +18,11 @@
         </div>
         <div class="end">
           <p class="correct">Score: 0</p>
-          <p>
-            <a href="./game.html" class="try-again-link">Try again</a>
-            or <a href="./index.html">change settings</a>.
+          <div class="pacing-chart" id="postGamePacing"></div>
+          <p class="end-actions">
+            <a href="./game.html" class="try-again-link">Try again</a>,
+            <a href="./index.html">change settings</a>,
+            or <a href="./stats.html">view stats</a>.
           </p>
         </div>
       </div>
